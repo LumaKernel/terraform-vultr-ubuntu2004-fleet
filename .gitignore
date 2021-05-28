@@ -1,0 +1,8 @@
+.terraform
+*.tfvars
+*.tfstate
+*.tfstate.*
+backend.tf
+
+# putting it because this is template repository
+.terraform.lock.hcl
